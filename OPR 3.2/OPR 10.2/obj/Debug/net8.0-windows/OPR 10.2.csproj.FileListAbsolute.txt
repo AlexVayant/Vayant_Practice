@@ -1,0 +1,17 @@
+C:\Users\Alex\source\repos\OPR 10.2\OPR 10.2\bin\Debug\net8.0-windows\OPR 10.2.exe
+C:\Users\Alex\source\repos\OPR 10.2\OPR 10.2\bin\Debug\net8.0-windows\OPR 10.2.deps.json
+C:\Users\Alex\source\repos\OPR 10.2\OPR 10.2\bin\Debug\net8.0-windows\OPR 10.2.runtimeconfig.json
+C:\Users\Alex\source\repos\OPR 10.2\OPR 10.2\bin\Debug\net8.0-windows\OPR 10.2.dll
+C:\Users\Alex\source\repos\OPR 10.2\OPR 10.2\bin\Debug\net8.0-windows\OPR 10.2.pdb
+C:\Users\Alex\source\repos\OPR 10.2\OPR 10.2\obj\Debug\net8.0-windows\OPR_10._2.Form1.resources
+C:\Users\Alex\source\repos\OPR 10.2\OPR 10.2\obj\Debug\net8.0-windows\OPR_10._2.Properties.Resources.resources
+C:\Users\Alex\source\repos\OPR 10.2\OPR 10.2\obj\Debug\net8.0-windows\OPR 10.2.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\OPR 10.2\OPR 10.2\obj\Debug\net8.0-windows\OPR 10.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\OPR 10.2\OPR 10.2\obj\Debug\net8.0-windows\OPR 10.2.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\OPR 10.2\OPR 10.2\obj\Debug\net8.0-windows\OPR 10.2.AssemblyInfo.cs
+C:\Users\Alex\source\repos\OPR 10.2\OPR 10.2\obj\Debug\net8.0-windows\OPR 10.2.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\OPR 10.2\OPR 10.2\obj\Debug\net8.0-windows\OPR 10.2.dll
+C:\Users\Alex\source\repos\OPR 10.2\OPR 10.2\obj\Debug\net8.0-windows\refint\OPR 10.2.dll
+C:\Users\Alex\source\repos\OPR 10.2\OPR 10.2\obj\Debug\net8.0-windows\OPR 10.2.pdb
+C:\Users\Alex\source\repos\OPR 10.2\OPR 10.2\obj\Debug\net8.0-windows\OPR 10.2.genruntimeconfig.cache
+C:\Users\Alex\source\repos\OPR 10.2\OPR 10.2\obj\Debug\net8.0-windows\ref\OPR 10.2.dll
