@@ -1,0 +1,17 @@
+C:\Users\Alex\source\repos\12345\12345\obj\Debug\net8.0-windows\_12345.Form1.resources
+C:\Users\Alex\source\repos\12345\12345\obj\Debug\net8.0-windows\_12345.Properties.Resources.resources
+C:\Users\Alex\source\repos\12345\12345\obj\Debug\net8.0-windows\12345.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\12345\12345\obj\Debug\net8.0-windows\12345.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\12345\12345\obj\Debug\net8.0-windows\12345.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\12345\12345\obj\Debug\net8.0-windows\12345.AssemblyInfo.cs
+C:\Users\Alex\source\repos\12345\12345\obj\Debug\net8.0-windows\12345.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\12345\12345\bin\Debug\net8.0-windows\12345.exe
+C:\Users\Alex\source\repos\12345\12345\bin\Debug\net8.0-windows\12345.deps.json
+C:\Users\Alex\source\repos\12345\12345\bin\Debug\net8.0-windows\12345.runtimeconfig.json
+C:\Users\Alex\source\repos\12345\12345\bin\Debug\net8.0-windows\12345.dll
+C:\Users\Alex\source\repos\12345\12345\bin\Debug\net8.0-windows\12345.pdb
+C:\Users\Alex\source\repos\12345\12345\obj\Debug\net8.0-windows\12345.dll
+C:\Users\Alex\source\repos\12345\12345\obj\Debug\net8.0-windows\refint\12345.dll
+C:\Users\Alex\source\repos\12345\12345\obj\Debug\net8.0-windows\12345.pdb
+C:\Users\Alex\source\repos\12345\12345\obj\Debug\net8.0-windows\12345.genruntimeconfig.cache
+C:\Users\Alex\source\repos\12345\12345\obj\Debug\net8.0-windows\ref\12345.dll
